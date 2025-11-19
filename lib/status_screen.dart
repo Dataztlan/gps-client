@@ -31,7 +31,7 @@ class _StatusScreenState extends State<StatusScreen> {
   }
 
   Future<void> _emailLogs() async {
-    await bg.Logger.emailLog("support@traccar.org", bg.SQLQuery(
+    await bg.Logger.emailLog("support@kumi.app", bg.SQLQuery(
       order: bg.SQLQuery.ORDER_DESC,
       limit: 25000,
     ));

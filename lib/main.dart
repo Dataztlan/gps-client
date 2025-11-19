@@ -6,9 +6,9 @@ import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/material.dart';
 import 'package:app_links/app_links.dart';
 import 'package:rate_my_app/rate_my_app.dart';
-import 'package:traccar_client/geolocation_service.dart';
-import 'package:traccar_client/push_service.dart';
-import 'package:traccar_client/quick_actions.dart';
+import 'package:kumi/geolocation_service.dart';
+import 'package:kumi/push_service.dart';
+import 'package:kumi/quick_actions.dart';
 
 import 'l10n/app_localizations.dart';
 import 'main_screen.dart';

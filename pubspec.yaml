@@ -1,5 +1,5 @@
-name: traccar_client
-description: "Traccar Client"
+name: Kumi
+description: "Kumi GPS Tracking App"
 publish_to: 'none'
 version: 9.6.4+112
 
